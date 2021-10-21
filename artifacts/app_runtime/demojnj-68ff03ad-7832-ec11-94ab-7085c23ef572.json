@@ -1,7 +1,7 @@
 {
 	"id": "68ff03ad-7832-ec11-94ab-7085c23ef572",
 	"createdAt": "2021-10-21T14:10:49.946Z",
-	"updatedAt": "2021-10-21T14:10:55.956Z",
+	"updatedAt": "2021-10-21T14:25:19.063Z",
 	"createdBy": "svein.gunnar.larsen@neptune-software.com",
 	"changedBy": "svein.gunnar.larsen@neptune-software.com",
 	"objects": [
@@ -18,14 +18,31 @@
 		},
 		{
 			"fieldNo": 99999,
-			"data": []
+			"data": [
+				{
+					"fieldNo": "06becb49-de9e-43fb-8560-0f2aceb3e990",
+					"fieldName": "oTypescript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": [
+						"==OBJECT STRING==",
+						"function foo() {\r",
+						"    \r",
+						"}"
+					],
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
 		},
 		{
 			"fieldNo": 99998,
 			"data": []
 		}
 	],
-	"ver": "21.10.21.1610",
+	"ver": "21.10.21.1625",
 	"application": "demojnj",
 	"title": "",
 	"description": "",
