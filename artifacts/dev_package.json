@@ -1,0 +1,47 @@
+{
+	"id": "02AFAAA0-7832-EC11-94AB-7085C23EF572",
+	"createdAt": "2021-10-21T14:10:22.480Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/sveingunnarlarsen/demojnj.git",
+		"testServers": []
+	},
+	"name": "DemoJnJ",
+	"description": null,
+	"ver": "21.10.21.1620",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "68FF03AD-7832-EC11-94AB-7085C23EF572",
+			"ver": "21.10.21.1610",
+			"application": "demojnj",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}

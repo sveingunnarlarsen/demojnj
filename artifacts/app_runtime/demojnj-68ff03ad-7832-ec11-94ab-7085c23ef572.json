@@ -1,0 +1,61 @@
+{
+	"id": "68ff03ad-7832-ec11-94ab-7085c23ef572",
+	"createdAt": "2021-10-21T14:10:49.946Z",
+	"updatedAt": "2021-10-21T14:10:55.956Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"changedBy": "svein.gunnar.larsen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "21e936cd-24bd-493e-81b1-0c1a8792c18c",
+			"fieldName": "oPage",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Page",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": []
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"ver": "21.10.21.1610",
+	"application": "demojnj",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "",
+	"ui5_language": null,
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": "",
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"apis": []
+}
